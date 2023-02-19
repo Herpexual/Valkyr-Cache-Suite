@@ -1,6 +1,5 @@
-package misc;
-//package com.utility;
-//
+paage misc;
+//package com.utility//
 //import java.awt.Color;
 //import java.io.DataOutputStream;
 //import java.io.File;
